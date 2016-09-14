@@ -9,5 +9,13 @@ namespace Ejercicio1Herencia
     public class Factura:Documento
     {
         public float importe;
+
+        public Factura(int numero)
+            : base(numero)
+        { }
+
+        public Factura(int numero, string fecha, int numControl)
+            : base(numero, fecha, numControl)
+        { }
     }
 }

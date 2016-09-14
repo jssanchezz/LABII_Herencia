@@ -9,5 +9,13 @@ namespace Ejercicio1Herencia
     public class Remito:Documento
     {
         public string fecha;
+
+        public Remito(int numero)
+            : base(numero)
+        { }
+
+        public Remito(int numero, string fecha, int numControl)
+            : base(numero, fecha, numControl)
+        { }
     }
 }

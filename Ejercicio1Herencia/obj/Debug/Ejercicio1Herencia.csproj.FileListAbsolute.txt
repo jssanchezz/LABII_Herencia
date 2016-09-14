@@ -4,3 +4,9 @@ D:\Sanchez Juan\Clase 10\Clase 10\Ejercicio1Herencia\bin\Debug\Ejercicio1Herenci
 D:\Sanchez Juan\Clase 10\Clase 10\Ejercicio1Herencia\obj\Debug\Ejercicio1Herencia.csprojResolveAssemblyReference.cache
 D:\Sanchez Juan\Clase 10\Clase 10\Ejercicio1Herencia\obj\Debug\Ejercicio1Herencia.exe
 D:\Sanchez Juan\Clase 10\Clase 10\Ejercicio1Herencia\obj\Debug\Ejercicio1Herencia.pdb
+D:\Sanchez Juan\Clase 10\Proyecto\Ejercicio1Herencia\bin\Debug\Ejercicio1Herencia.exe.config
+D:\Sanchez Juan\Clase 10\Proyecto\Ejercicio1Herencia\obj\Debug\Ejercicio1Herencia.exe
+D:\Sanchez Juan\Clase 10\Proyecto\Ejercicio1Herencia\obj\Debug\Ejercicio1Herencia.pdb
+D:\Sanchez Juan\Clase 10\Proyecto\Ejercicio1Herencia\obj\Debug\Ejercicio1Herencia.csprojResolveAssemblyReference.cache
+D:\Sanchez Juan\Clase 10\Proyecto\Ejercicio1Herencia\bin\Debug\Ejercicio1Herencia.exe
+D:\Sanchez Juan\Clase 10\Proyecto\Ejercicio1Herencia\bin\Debug\Ejercicio1Herencia.pdb

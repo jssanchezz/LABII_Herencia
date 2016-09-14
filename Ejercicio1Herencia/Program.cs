@@ -10,13 +10,17 @@ namespace Ejercicio1Herencia
     {
         static void Main(string[] args)
         {
-            Factura miFactura = new Factura();
+            Factura miFactura = new Factura(666);
 
             List<Documento> milistado = new List<Documento>();
 
             milistado.Add(miFactura);
 
-            Remito unRemito = new Remito();
+            Remito unRemito = new Remito(999);
+
+            FacturaA mifacturaA = new FacturaA(21, miFactura);
+
+            FacturaAPagada facturaPagada = new FacturaAPagada("Hoy", mifacturaA);
 
             milistado.Add(unRemito);
 
